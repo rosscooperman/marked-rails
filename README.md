@@ -1,6 +1,9 @@
-# Marked::Rails
+*# Marked::Rails
 
-TODO: Write a gem description
+  [Marked]("https://github.com/chjj/marked") is an awesome, fast Markdown parser and compiler.
+  This is marked - wrapped in a gem - to make use of rubygems as a packet manager.
+  Marked is also available through Node Packet Manager, but if you're working in Rails it's nice
+  to have in gem form for simple integration into your rails apps.
 
 ## Installation
 
@@ -16,14 +19,24 @@ Or install it yourself as:
 
     $ gem install marked-rails
 
-## Usage
+## Usage (With Asset Pipeline)
 
-TODO: Write usage instructions here
+```js
+//= require marked
+```
+
+## Usage (Without Asset Pipeline)
+
+_Coming soon_
 
 ## Contributing
 
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Added some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+Feel free to open an issue ticket if you find something that could be improved. A couple notes:
+
+* If it's an issue pertaining to the marked javascript, please report it to the [marked project](https://github.com/chjj/marked).
+
+* If the marked scripts are outdated (i.e. maybe a new version of marked was released yesterday), feel free to open an issue and prod us to get that thing updated.
+
+## Acknowledgements
+
+* This README is __heavily__ inspired by the one for [jquery-rails](https://github.com/rails/jquery-rails)
