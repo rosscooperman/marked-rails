@@ -1,8 +1,8 @@
 # Marked::Rails
 
   [Marked]("https://github.com/chjj/marked") is an awesome, fast Markdown parser and compiler.
-  This is marked - wrapped in a gem - to make use of rubygems as a packet manager.
-  Marked is also available through Node Packet Manager, but if you're working in Rails it's nice
+  This is marked - wrapped in a gem - to make use of rubygems as a package manager.
+  Marked is also available through Node Package Manager, but if you're working in Rails it's nice
   to have in gem form for simple integration into your rails apps.
 
   We are currently tracking marked version 0.2.5
