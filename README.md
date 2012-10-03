@@ -1,4 +1,4 @@
-*# Marked::Rails
+# Marked::Rails
 
   [Marked]("https://github.com/chjj/marked") is an awesome, fast Markdown parser and compiler.
   This is marked - wrapped in a gem - to make use of rubygems as a packet manager.
