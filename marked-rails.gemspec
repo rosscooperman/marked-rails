@@ -4,9 +4,9 @@ require File.expand_path('../lib/marked-rails/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["nodanaonlyzuul"]
   gem.email         = ["stephen@eastmedia.com"]
-  gem.description   = %q{TODO: Write a gem description}
+  gem.description   = 'A gemified verison of the chjj/marked: "A full-featured markdown parser and compiler, written in javascript."'
   gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/eastmedia/marked-rails"
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
