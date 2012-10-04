@@ -2,7 +2,7 @@
 require File.expand_path('../lib/marked-rails/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["nodanaonlyzuul"]
+  gem.authors       = ["nodanaonlyzuul", "rosscooperman"]
   gem.email         = ["stephen@eastmedia.com"]
   gem.description   = 'A gemified verison of the chjj/marked: "A full-featured markdown parser and compiler, written in javascript."'
   gem.summary       = 'A gemified verison of the chjj/marked'
