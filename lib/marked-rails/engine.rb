@@ -1,2 +1,6 @@
-class Engine < ::Rails::Engine
+module Marked
+  module Rails
+    class Engine < ::Rails::Engine
+    end
+  end
 end
