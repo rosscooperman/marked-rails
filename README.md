@@ -29,7 +29,7 @@ Or install it yourself as:
 
 ## Usage (Without Asset Pipeline)
 
-_Coming soon_
+_Coming ...Eventually_
 
 ## Contributing
 
