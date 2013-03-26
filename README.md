@@ -5,7 +5,7 @@
   Marked is also available through Node Package Manager, but if you're working in Rails it's nice
   to have in gem form for simple integration into your rails apps.
 
-  We are currently tracking marked version 0.2.7
+  We are currently tracking marked version 0.2.8
 
 ## Installation
 
