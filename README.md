@@ -32,7 +32,7 @@ _Coming ...Eventually_
 ## Versioning Conventions
 
 The least significant digits are gem-specific. Everything before those digits are marked versions.
-For example: marked-rails 0.2.8.0 tracks marked 0.2.8.0 - if we make a mistake in the gem, withoug
+For example: marked-rails 0.2.8.0 tracks marked 0.2.8 - if we make a mistake in the gem, withoug
 having to touch the library - we'd release 0.2.8.1
 
 ## Contributing
