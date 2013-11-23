@@ -27,7 +27,16 @@ Or install it yourself as:
 
 ## Usage (Without Asset Pipeline)
 
-_Coming ...Eventually_
+This gem adds a generator, `marked:install`. Running the generator will copy Marked to the
+`public/javascripts` directory.
+
+To invoke the generator, run:
+
+```sh
+rails generate marked:install
+```
+
+You're done!
 
 ## Versioning Conventions
 
