@@ -36,8 +36,6 @@ To invoke the generator, run:
 rails generate marked:install
 ```
 
-You're done!
-
 ## Versioning Conventions
 
 The least significant digits are gem-specific. Everything before those digits are marked versions.
