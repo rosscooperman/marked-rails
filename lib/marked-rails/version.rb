@@ -1,5 +1,6 @@
 module Marked
   module Rails
-    VERSION = "0.2.10.0"
+    MARKED_VERSION = "0.2.10"
+    VERSION        = "#{MARKED_VERSION}.0"
   end
 end
