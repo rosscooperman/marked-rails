@@ -32,15 +32,14 @@ _Coming ...Eventually_
 ## Versioning Conventions
 
 The least significant digits are gem-specific. Everything before those digits are marked versions.
-For example: marked-rails 0.2.8.0 tracks marked 0.2.8 - if we make a mistake in the gem, withoug
-having to touch the library - we'd release 0.2.8.1
+For example: marked-rails 0.2.8.0 tracks marked 0.2.8 - if we make a mistake in the gem, without
+having to touch the library - we'd release 0.2.8.1.
 
 ## Contributing
 
-Feel free to open an issue ticket if you find something that could be improved. A couple notes:
+Feel free to open an issue if you find something that could be improved. A couple notes:
 
 * If it's an issue pertaining to the marked javascript, please report it to the [marked project](https://github.com/chjj/marked).
-
 * If the marked scripts are outdated (i.e. maybe a new version of marked was released yesterday), feel free to open an issue and prod us to get that thing updated.
 
 ## Acknowledgements
