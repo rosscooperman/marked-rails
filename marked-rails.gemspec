@@ -7,6 +7,7 @@ Gem::Specification.new do |gem|
   gem.description   = 'A gemified verison of the chjj/marked: "A full-featured markdown parser and compiler, written in javascript."'
   gem.summary       = 'A gemified verison of the chjj/marked'
   gem.homepage      = "https://github.com/rosscooperman/marked-rails"
+  gem.licenses      = ['MIT']
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
